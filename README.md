@@ -36,17 +36,17 @@ From model optimization to pipeline design and GPU → NPU migration.
 
 ## Focus
 
-![System-Oriented AI Engineering](https://img.shields.io/badge/System--Oriented_AI_Engineering-0F766E?style=flat-square&logoColor=white)  
-모델 단위가 아니라 데이터 흐름, 추론 구조, 배포 방식, 운영 편의성까지 포함해 시스템 관점에서 설계합니다.
+- 🏗️ **System-Oriented AI Engineering**  
+  모델 단위가 아니라 데이터 흐름, 추론 구조, 배포 방식, 운영 편의성까지 포함해 시스템 관점에서 설계합니다.
 
-![Performance and Efficiency](https://img.shields.io/badge/Performance_%26_Efficiency-1D4ED8?style=flat-square&logoColor=white)  
-정확도뿐 아니라 지연시간, 처리량, 전력, 비용까지 함께 고려해 실제 운영에 맞는 성능 균형을 맞춥니다.
+- ⚡ **Performance & Efficiency**  
+  정확도뿐 아니라 지연시간, 처리량, 전력, 비용까지 함께 고려해 실제 운영에 맞는 성능 균형을 맞춥니다.
 
-![Deployment and Migration](https://img.shields.io/badge/Deployment_%26_Migration-7C3AED?style=flat-square&logoColor=white)  
-학습 환경에서 끝나지 않고, GPU에서 edge/NPU 환경으로 자연스럽게 이어지는 배포와 이관 구조를 중요하게 봅니다.
+- 🔄 **Deployment & Migration**  
+  학습 환경에서 끝나지 않고, GPU에서 edge/NPU 환경으로 자연스럽게 이어지는 배포와 이관 구조를 중요하게 봅니다.
 
-![Sustainable Operation](https://img.shields.io/badge/Sustainable_Operation-DC2626?style=flat-square&logoColor=white)  
-한 번 동작하는 데모보다, 추적 가능하고 유지보수 가능한 운영 구조와 업데이트 흐름을 만드는 데 집중합니다.
+- 🛠️ **Sustainable Operation**  
+  한 번 동작하는 데모보다, 추적 가능하고 유지보수 가능한 운영 구조와 업데이트 흐름을 만드는 데 집중합니다.
 
 ## Languages and Tools
 
